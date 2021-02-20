@@ -5,7 +5,7 @@ My name is lece, and i'm just a kid who likes to mess around and code every once
 
 ## Other
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=ahmedbinmoh&show_icons=true&theme=radical)
+![Metrics](https://github-readme-stats.vercel.app/api?username=lece1337&show_icons=true&theme=radical)
 
 
 ## Personal Website
