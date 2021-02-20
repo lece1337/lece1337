@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://i.imgur.com/4M7IWwP.gif)
 
-<!--
-**lece1337/lece1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is lece, and i'm just a kid who likes to mess around and code every once in a while, or contribute to projects/repositories here on Github. Any repositores I post are just for fun, and usually for my purpose of learning. I like to make useless stuff too, so you probably won't find anything interesting here.
 
-Here are some ideas to get you started:
+## Other
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://github-readme-stats.vercel.app/api?username=ahmedbinmoh&show_icons=true&theme=radical)
+
+
+## Personal Website
+You can check out my personal website at **[here.](https://lece1337.com)**
+
+![](https://i.imgur.com/4M7IWwP.gif)
