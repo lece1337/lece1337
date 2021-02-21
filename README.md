@@ -7,7 +7,7 @@ My name is lece, and i'm just a kid who likes to mess around and code every once
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=lece1337&show_icons=true&theme=radical)
 
-
+https://gpvc.arturio.dev/lece1337
 ## Personal Website
 You can check out my personal website at **[here.](https://lece1337.com)**
 
