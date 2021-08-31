@@ -1,10 +1,7 @@
-![](https://probot.media/9EuBIqgapI.gif)
 
-## About Me
 My name is Salem.
 
 ## html 80% , CSS 20% vb 25%
-## Other
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=lece1337&show_icons=true&theme=radical)
 
@@ -13,4 +10,3 @@ My name is Salem.
 ## Personal Website
 You can check out my personal website at **[here.](https://lece1337.com)**
 
-![](https://probot.media/9EuBIqgapI.gif)
